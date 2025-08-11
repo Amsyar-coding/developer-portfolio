@@ -43,6 +43,7 @@ export const projects: Project[] = [
     description: 'A responsive portfolio website showcasing projects, skills, and experience. Built with modern web technologies and optimized for performance.',
     technologies: ['React', 'TypeScript', 'TailwindCSS', 'Framer Motion', 'Vite'],
     image: 'https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800&q=80',
+    githubUrl: 'https://github.com/Amsyar-coding/developer-portfolio',
     featured: true
   }
 ];
