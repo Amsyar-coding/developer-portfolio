@@ -1,6 +1,6 @@
 # 🚀 Developer Portfolio Website
 
-A modern, responsive developer portfolio website built with **React**, **TypeScript**, and **TailwindCSS**. Features a beautiful purple-black-white color scheme and smooth animations.
+A modern, responsive developer portfolio website built with **React**, **TypeScript**, and **TailwindCSS**. Features a beautiful purple-black color scheme and smooth animations.
 
 ![Portfolio Preview](https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800&q=80)
 
