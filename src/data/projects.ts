@@ -33,7 +33,7 @@ export const projects: Project[] = [
     title: 'Jewel Thief implementation',
     description: 'A collaborative undertaking of the game implementation. ',
     technologies: ['Java', 'Json'],
-    image: 'https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=800&q=80',
+    image: 'https://i.ytimg.com/vi/hy9X3ru9YeI/sddefault.jpg?w=800&q=80',
     githubUrl: 'https://github.com/MaxMiddletonDev/CS-230-A2-Group29SE',
     featured: true
   },
