@@ -35,7 +35,7 @@ export const projects: Project[] = [
     technologies: ['Java', 'Json'],
     image: 'https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=800&q=80',
     githubUrl: 'https://github.com/MaxMiddletonDev/CS-230-A2-Group29SE',
-    featured: false
+    featured: true
   },
   {
     id: '4',
