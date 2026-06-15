@@ -15,7 +15,7 @@ export const projects: Project[] = [
     title: 'Minecraft Clone',
     description: 'A near 1:1 clone of an early alpha build of the famous game Minecraft, entirely in Python. Able to import base 36 maps from the alpha and with added functionality such as user teleportation, to aid world traversal.',
     technologies: ['Python', "OpenGL"],
-    image: 'https://i.imgur.com/AvAtr.jpeg?w=800&q=80',
+    image: 'https://www.schudio.com/wp-content/uploads/2024/08/minecraft.jpeg?w=800&q=80',
     githubUrl: 'https://github.com/Amsyar-coding/minecraft-clone',
     featured: true
   },
@@ -30,11 +30,11 @@ export const projects: Project[] = [
   },
   {
     id: '3',
-    title: 'C interpreter',
-    description: 'A more comprehensive and in depth form of the JLox interpreter with added QOL changes.',
-    technologies: ['C'],
+    title: 'Jewel Thief implementation',
+    description: 'A collaborative undertaking of the game implementation. ',
+    technologies: ['Java', 'Json'],
     image: 'https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=800&q=80',
-    githubUrl: 'https://www.youtube.com/watch?v=twC-qa7xdSA',
+    githubUrl: 'https://github.com/MaxMiddletonDev/CS-230-A2-Group29SE',
     featured: false
   },
   {
@@ -50,6 +50,7 @@ export const projects: Project[] = [
 
 export const skills = [
   'Java',
+  'Json',
   'TypeScript',
   'React',
   'Python',
